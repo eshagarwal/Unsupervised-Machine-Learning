@@ -16,4 +16,4 @@ This repository contains an implementation of the K-means clustering algorithm u
 This project provides insights into how unsupervised learning methods like K-means can be applied to real-world tasks such as data clustering and image compression. [Code](./Clustering/k_means.ipynb)
 
 ### Results:
-![result](./Clustering/images/Result.png)
+![result](./Clustering/images/output.png)
