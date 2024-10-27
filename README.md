@@ -14,3 +14,6 @@ This repository contains an implementation of the K-means clustering algorithm u
 - **Image Compression with K-means**: Shows how K-means can compress images by reducing color complexity.
 
 This project provides insights into how unsupervised learning methods like K-means can be applied to real-world tasks such as data clustering and image compression. [Code](./Clustering/k_means.ipynb)
+
+### Results:
+![result](./Clustering/images/Result.png)
